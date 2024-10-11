@@ -1,0 +1,26 @@
+2024-10-11 07:26:37 - WARNING: systolic_bp reading is abnormal: 126
+2024-10-11 07:26:37 - WARNING: diastolic_bp reading is abnormal: 81
+2024-10-11 07:26:37 - WARNING: body_temperature reading is abnormal: 37.3
+2024-10-11 07:26:40 - CRITICAL: Persistent abnormal systolic_bp over last 5 readings.
+2024-10-11 07:26:40 - CRITICAL: Persistent abnormal diastolic_bp over last 5 readings.
+2024-10-11 07:26:42 - WARNING: body_temperature reading is abnormal: 37.3
+2024-10-11 07:26:52 - CRITICAL: Persistent abnormal body_temperature over last 5 readings.
+2024-10-11 07:26:54 - WARNING: systolic_bp reading is abnormal: 138
+2024-10-11 07:26:54 - WARNING: diastolic_bp reading is abnormal: 82
+2024-10-11 07:26:56 - CRITICAL: Persistent abnormal systolic_bp over last 5 readings.
+2024-10-11 07:26:56 - CRITICAL: Persistent abnormal diastolic_bp over last 5 readings.
+2024-10-11 07:27:04 - WARNING: diastolic_bp reading is abnormal: 81
+2024-10-11 07:27:06 - CRITICAL: Persistent abnormal diastolic_bp over last 5 readings.
+2024-10-11 07:27:09 - WARNING: systolic_bp reading is abnormal: 127
+2024-10-11 07:35:36 - WARNING: diastolic_bp reading is abnormal: 85
+2024-10-11 07:35:38 - CRITICAL: Persistent abnormal diastolic_bp over last 5 readings.
+2024-10-11 07:35:41 - WARNING: systolic_bp reading is abnormal: 134
+2024-10-11 07:35:41 - WARNING: body_temperature reading is abnormal: 37.3
+2024-10-11 07:35:44 - CRITICAL: Persistent abnormal systolic_bp over last 5 readings.
+2024-10-11 07:35:44 - CRITICAL: Persistent abnormal body_temperature over last 5 readings.
+2024-10-11 07:35:46 - WARNING: diastolic_bp reading is abnormal: 86
+2024-10-11 07:35:48 - CRITICAL: Persistent abnormal diastolic_bp over last 5 readings.
+2024-10-11 07:36:06 - WARNING: body_temperature reading is abnormal: 37.5
+2024-10-11 07:36:08 - CRITICAL: Persistent abnormal body_temperature over last 5 readings.
+2024-10-11 07:36:11 - WARNING: diastolic_bp reading is abnormal: 87
+2024-10-11 07:36:13 - CRITICAL: Persistent abnormal diastolic_bp over last 5 readings.

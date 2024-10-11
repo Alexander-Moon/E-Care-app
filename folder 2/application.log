@@ -1,0 +1,86 @@
+2024-10-11 07:13:17,302 - INFO - Application started.
+2024-10-11 07:13:17,303 - INFO - Settings file not found. Using default settings.
+2024-10-11 07:13:17,303 - INFO - Settings loaded successfully.
+2024-10-11 07:26:18,576 - INFO - Application started.
+2024-10-11 07:26:18,577 - INFO - Settings file not found. Using default settings.
+2024-10-11 07:26:18,577 - INFO - Settings loaded successfully.
+2024-10-11 07:26:31,525 - INFO - User 'Alexander' logged in.
+2024-10-11 07:26:32,741 - INFO - Main window created.
+2024-10-11 07:26:37,961 - INFO - Data simulation started.
+2024-10-11 07:26:37,965 - INFO - Alert logged: systolic_bp reading is abnormal: 126
+2024-10-11 07:26:37,965 - INFO - Alert generated: systolic_bp reading is abnormal: 126
+2024-10-11 07:26:37,968 - INFO - Alert logged: diastolic_bp reading is abnormal: 81
+2024-10-11 07:26:37,969 - INFO - Alert generated: diastolic_bp reading is abnormal: 81
+2024-10-11 07:26:37,971 - INFO - Alert logged: body_temperature reading is abnormal: 37.3
+2024-10-11 07:26:37,972 - INFO - Alert generated: body_temperature reading is abnormal: 37.3
+2024-10-11 07:26:40,156 - INFO - Alert logged: Persistent abnormal systolic_bp over last 5 readings.
+2024-10-11 07:26:40,156 - INFO - Critical alert generated: Persistent abnormal systolic_bp over last 5 readings.
+2024-10-11 07:26:40,161 - INFO - Alert logged: Persistent abnormal diastolic_bp over last 5 readings.
+2024-10-11 07:26:40,162 - INFO - Critical alert generated: Persistent abnormal diastolic_bp over last 5 readings.
+2024-10-11 07:26:42,368 - INFO - Alert logged: body_temperature reading is abnormal: 37.3
+2024-10-11 07:26:42,369 - INFO - Alert generated: body_temperature reading is abnormal: 37.3
+2024-10-11 07:26:42,765 - INFO - Settings window opened.
+2024-10-11 07:26:48,692 - INFO - Settings saved to file.
+2024-10-11 07:26:51,222 - INFO - Settings updated and saved.
+2024-10-11 07:26:52,900 - INFO - Alert logged: Persistent abnormal body_temperature over last 5 readings.
+2024-10-11 07:26:52,900 - INFO - Critical alert generated: Persistent abnormal body_temperature over last 5 readings.
+2024-10-11 07:26:54,003 - INFO - Alert logged: systolic_bp reading is abnormal: 138
+2024-10-11 07:26:54,004 - INFO - Alert generated: systolic_bp reading is abnormal: 138
+2024-10-11 07:26:54,005 - INFO - Alert logged: diastolic_bp reading is abnormal: 82
+2024-10-11 07:26:54,005 - INFO - Alert generated: diastolic_bp reading is abnormal: 82
+2024-10-11 07:26:56,137 - INFO - Alert logged: Persistent abnormal systolic_bp over last 5 readings.
+2024-10-11 07:26:56,137 - INFO - Critical alert generated: Persistent abnormal systolic_bp over last 5 readings.
+2024-10-11 07:26:56,139 - INFO - Alert logged: Persistent abnormal diastolic_bp over last 5 readings.
+2024-10-11 07:26:56,139 - INFO - Critical alert generated: Persistent abnormal diastolic_bp over last 5 readings.
+2024-10-11 07:27:04,186 - INFO - Alert logged: diastolic_bp reading is abnormal: 81
+2024-10-11 07:27:04,187 - INFO - Alert generated: diastolic_bp reading is abnormal: 81
+2024-10-11 07:27:06,348 - INFO - Alert logged: Persistent abnormal diastolic_bp over last 5 readings.
+2024-10-11 07:27:06,348 - INFO - Critical alert generated: Persistent abnormal diastolic_bp over last 5 readings.
+2024-10-11 07:27:09,081 - INFO - Alert logged: systolic_bp reading is abnormal: 127
+2024-10-11 07:27:09,081 - INFO - Alert generated: systolic_bp reading is abnormal: 127
+2024-10-11 07:27:11,137 - INFO - Data simulation stopped.
+2024-10-11 07:27:14,055 - INFO - Application exit requested.
+2024-10-11 07:27:14,145 - INFO - Application closed.
+2024-10-11 07:34:33,975 - INFO - Application started.
+2024-10-11 07:34:33,976 - INFO - Settings loaded from file.
+2024-10-11 07:34:33,976 - INFO - Settings loaded successfully.
+2024-10-11 07:34:43,862 - INFO - User 'Alexander' logged in.
+2024-10-11 07:34:44,941 - INFO - Main window created.
+2024-10-11 07:34:52,383 - INFO - Settings window opened.
+2024-10-11 07:35:31,594 - INFO - Settings saved to file.
+2024-10-11 07:35:33,722 - INFO - Settings updated and saved.
+2024-10-11 07:35:36,394 - INFO - Data simulation started.
+2024-10-11 07:35:36,396 - INFO - Alert logged: diastolic_bp reading is abnormal: 85
+2024-10-11 07:35:36,396 - INFO - Alert generated: diastolic_bp reading is abnormal: 85
+2024-10-11 07:35:38,557 - INFO - Alert logged: Persistent abnormal diastolic_bp over last 5 readings.
+2024-10-11 07:35:38,557 - INFO - Critical alert generated: Persistent abnormal diastolic_bp over last 5 readings.
+2024-10-11 07:35:41,837 - INFO - Alert logged: systolic_bp reading is abnormal: 134
+2024-10-11 07:35:41,837 - INFO - Alert generated: systolic_bp reading is abnormal: 134
+2024-10-11 07:35:41,839 - INFO - Alert logged: body_temperature reading is abnormal: 37.3
+2024-10-11 07:35:41,839 - INFO - Alert generated: body_temperature reading is abnormal: 37.3
+2024-10-11 07:35:44,005 - INFO - Alert logged: Persistent abnormal systolic_bp over last 5 readings.
+2024-10-11 07:35:44,005 - INFO - Critical alert generated: Persistent abnormal systolic_bp over last 5 readings.
+2024-10-11 07:35:44,007 - INFO - Alert logged: Persistent abnormal body_temperature over last 5 readings.
+2024-10-11 07:35:44,007 - INFO - Critical alert generated: Persistent abnormal body_temperature over last 5 readings.
+2024-10-11 07:35:46,690 - INFO - Alert logged: diastolic_bp reading is abnormal: 86
+2024-10-11 07:35:46,691 - INFO - Alert generated: diastolic_bp reading is abnormal: 86
+2024-10-11 07:35:48,859 - INFO - Alert logged: Persistent abnormal diastolic_bp over last 5 readings.
+2024-10-11 07:35:48,859 - INFO - Critical alert generated: Persistent abnormal diastolic_bp over last 5 readings.
+2024-10-11 07:36:06,705 - INFO - Alert logged: body_temperature reading is abnormal: 37.5
+2024-10-11 07:36:06,705 - INFO - Alert generated: body_temperature reading is abnormal: 37.5
+2024-10-11 07:36:08,880 - INFO - Alert logged: Persistent abnormal body_temperature over last 5 readings.
+2024-10-11 07:36:08,881 - INFO - Critical alert generated: Persistent abnormal body_temperature over last 5 readings.
+2024-10-11 07:36:11,605 - INFO - Alert logged: diastolic_bp reading is abnormal: 87
+2024-10-11 07:36:11,605 - INFO - Alert generated: diastolic_bp reading is abnormal: 87
+2024-10-11 07:36:13,772 - INFO - Alert logged: Persistent abnormal diastolic_bp over last 5 readings.
+2024-10-11 07:36:13,772 - INFO - Critical alert generated: Persistent abnormal diastolic_bp over last 5 readings.
+2024-10-11 07:36:15,877 - INFO - Data simulation stopped.
+2024-10-11 07:36:54,697 - INFO - Application exit requested.
+2024-10-11 07:36:54,760 - INFO - Application closed.
+2024-10-11 07:57:29,991 - INFO - Application started.
+2024-10-11 07:57:30,003 - INFO - Settings loaded from file.
+2024-10-11 07:57:30,003 - INFO - Settings loaded successfully.
+2024-10-11 07:57:44,655 - INFO - User 'Alexander' logged in.
+2024-10-11 07:57:45,583 - INFO - Main window created.
+2024-10-11 08:02:26,442 - INFO - Application exit requested.
+2024-10-11 08:02:26,446 - INFO - Application closed.
