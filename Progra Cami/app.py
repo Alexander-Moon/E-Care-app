@@ -90,7 +90,8 @@ def user_window(location_window):
 def settings_window(previous_window):
     layout_settings = [
         [sg.Button(image_filename='Back.png', key='-BACK_TO_USER-', button_color=(color_fondo, color_fondo), border_width=0, pad=(10, 10)),
-         sg.Image(filename='ecare.png', pad=(0, 0))]
+         sg.Image(filename='ecare.png', pad=(0, 0))],
+        [sg.Image(filename='Settings.png', pad=(0, 0))]
     ]
 
     window_settings = sg.Window("Settings", layout_settings, size=(428, 886))
